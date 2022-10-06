@@ -34,3 +34,47 @@ a{
     gap:40px;
     padding-right: 100px;
 }
+
+.sectionOne{
+    height: 33%;
+    background-color: #1F2937;
+    color: white;
+    display:flex;
+    padding: 100px 15% 100px 15%;
+    gap: 50px;
+}
+
+.sectionOneFirstChild{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+
+.title{
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+    padding: 0;
+    margin: 0;
+}
+
+.sectionOneSecondChild{
+    background-color: rgb(95, 94, 94);
+    width: 700px;
+    height:200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+
+#sectionOneButton{
+    background-color: #1257c7;
+    border: #1257c7;
+    border-radius: 5px;
+    width: fit-content;
+    padding:5px 12px 5px 12px;
+    color: white;
+    font-weight: bold;
+}
