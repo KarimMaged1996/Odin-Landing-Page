@@ -129,3 +129,46 @@ a{
     font-size: larger;
     text-align: right;
 }
+
+.sectionFour{
+    padding: 70px 10% 70px 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#sectionFourContainer{
+    background-color: #1257c7;
+    padding: 30px 80px 30px 80px;
+    border-radius: 10px;
+    display: flex;
+    gap:30%;
+    width: 70%;
+}
+
+.actionMainText{
+    color: #E5E7EB;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0;
+    margin:0;
+}
+
+.actionSubtext{
+    color: #E5E7EB;
+    padding: 0;
+    margin: 0;
+}
+
+#sectionFourButton{
+    background-color: #1257c7;
+    border: solid;
+    border-color: white;
+    border-radius: 5px;
+    border-width: 0.1ch;
+    width: fit-content;
+    padding:5px 12px 5px 12px;
+    color: white;
+    font-weight: bold;
+    align-self: center;
+}
