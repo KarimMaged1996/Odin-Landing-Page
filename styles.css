@@ -110,3 +110,22 @@ a{
     justify-content: center;
     gap: 40px;
 }
+
+.sectionThree{
+    background-color: #E5E7EB;
+    padding: 100px 20% 100px 20%;
+}
+
+.sectionThreeFirstChild{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    align-items: center;
+    font-weight: 100;
+}
+
+.sectionThreeSecondChild{
+    font-weight: bold;
+    font-size: larger;
+    text-align: right;
+}
